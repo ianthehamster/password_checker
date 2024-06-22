@@ -27,7 +27,7 @@ Usage
 
 Technologies Used
 - Flask: Python web framework for the backend server.
-- requests: HTTP library for making API requests.
+- Requests: HTTP library for making API requests.
 - hashlib: Python library for secure hashing.
 - HTML/CSS: Frontend design and structure.
 
