@@ -10,10 +10,12 @@ This web application checks if a password has been exposed in a data breach usin
    cd password_checker
 
 2. Install the dependencies
-   ```pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Run the application:
-   ```python app.py
+   ```bash
+   python app.py
 
 4. Open your web browser and go to http://localhost:5000 to access the application
 
