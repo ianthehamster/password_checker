@@ -11,7 +11,7 @@ This web application checks if a password has been exposed in a data breach usin
 
 2. Install the dependencies
    ```bash
-   pip install -r requirements.txt
+   pip install Flask
 
 3. Run the application:
    ```bash
